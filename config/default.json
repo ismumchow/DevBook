@@ -1,4 +1,7 @@
 {
     "mongoURI": "mongodb+srv://ichowdhury4:apple123@basic-ut3ye.mongodb.net/test?retryWrites=true&w=majority", 
-    "jwtToken": "mySecretToken"
+    "jwtToken": "mySecretToken",
+    "githubClientId" : "0a5c952a74fb9da2c302",
+    "githubSecret" : "f7744c48d48facc1aca3b123d5253c7e9ea43ead"
+
 }
